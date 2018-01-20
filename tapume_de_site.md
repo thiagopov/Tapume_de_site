@@ -1,6 +1,6 @@
 
 
-# Tapume de site
+# Definição de Tapume de site:
 
 ## É uma vedação provisória feita para receber um site no futuro \o/ 
 
